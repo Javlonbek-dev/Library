@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Kutubxona\bin\x64\Debug\Kutubxona.exe.config
+C:\Users\Admin\Desktop\Kutubxona\bin\x64\Debug\Kutubxona.exe
+C:\Users\Admin\Desktop\Kutubxona\bin\x64\Debug\Kutubxona.pdb
+C:\Users\Admin\Desktop\Kutubxona\obj\x64\Debug\Kutubxona.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Kutubxona\obj\x64\Debug\Kutubxona.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Kutubxona\obj\x64\Debug\Kutubxona.Azolar.resources
+C:\Users\Admin\Desktop\Kutubxona\obj\x64\Debug\Kutubxona.Form1.resources
+C:\Users\Admin\Desktop\Kutubxona\obj\x64\Debug\Kutubxona.KitobOlish.resources
+C:\Users\Admin\Desktop\Kutubxona\obj\x64\Debug\Kutubxona.Menu.resources
+C:\Users\Admin\Desktop\Kutubxona\obj\x64\Debug\Kutubxona.Properties.Resources.resources
+C:\Users\Admin\Desktop\Kutubxona\obj\x64\Debug\Kutubxona.Toifacs.resources
+C:\Users\Admin\Desktop\Kutubxona\obj\x64\Debug\Kutubxona.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Kutubxona\obj\x64\Debug\Kutubxona.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Kutubxona\obj\x64\Debug\Kutubxona.exe
+C:\Users\Admin\Desktop\Kutubxona\obj\x64\Debug\Kutubxona.pdb
